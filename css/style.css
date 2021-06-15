@@ -1,0 +1,45 @@
+.jumbotron {
+    width: 500px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;   
+    color: #000;
+    border: #000 1px solid;
+    padding: 15px;
+}
+
+.titulo {
+    width: 500px;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;   
+    border: #000 1px solid;   
+    padding-top: 15px;
+}
+
+.recitativos {   
+    border: #000 1px solid;   
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    margin-top: 5px;
+    padding: 10px;  
+    
+}
+
+.input{
+    width: 60px;
+    margin: 5px;
+    border: none;    
+}
+
+.button{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    margin-top: 10px;
+}
+
+
