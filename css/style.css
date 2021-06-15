@@ -1,5 +1,5 @@
 .jumbotron {
-    width: 500px;
+    width: 400px;
     text-align: center;
     margin-top: 40px;
     margin-left: auto;
@@ -10,7 +10,7 @@
 }
 
 .titulo {
-    width: 500px;
+    width: 400px;
     text-align: center;
     margin-top: 5px;
     margin-left: auto;
@@ -23,7 +23,7 @@
     border: #000 1px solid;   
     margin-left: auto;
     margin-right: auto;
-    width: 500px;
+    width: 400px;
     margin-top: 5px;
     padding: 10px;  
     
@@ -38,7 +38,7 @@
 .button{
     margin-left: auto;
     margin-right: auto;
-    width: 500px;
+    width: 400px;
     margin-top: 10px;
 }
 
